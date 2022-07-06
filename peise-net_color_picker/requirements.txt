@@ -4,7 +4,7 @@ cffi==1.13.0
 chardet==3.0.4
 cryptography==3.3.2
 idna==2.8
-lxml==4.6.5
+lxml==4.9.1
 pycparser==2.19
 pyOpenSSL==19.0.0
 PySocks==1.7.1
